@@ -101,13 +101,3 @@ Adapt a Makefile from a previous assignment. Make sure that you are using `-Wall
 
 You will need to write a comprehensive unit testing suite for your code inside of the tests directory using the acutest.h framework.
 
-## Submission
-
-Navigate to the src directory where your `list.c` and `cake.c` files are, and compress them with:
-
-```
-zip pa07.zip list.c cake.c
-```
-
-Then, upload the zip file to Brightspace in the appropriate submission box.
-
