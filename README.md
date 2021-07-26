@@ -22,7 +22,7 @@ The structure of the code for this assignment is as follows:
 
 ### Linked Lists
 
-This assignment focuses on linked lists. You essentially have two tasks. The first is for you to write a linked list implementation in the files list.h and list.c. The implementation portion (i.e. the code that actually implements the functionality for the linked list) should be written in list.c. The interface portion (i.e. the code that describes the interface with your implementation) is already written in list.h and should not be changed. The second task is for you to use your linked list implementation, through its interface, to solve a simple computational problem called "Who gets the cake?". Lectures 21, 22, and 23 form the core set of lectures you will need to complete this assignment.
+
 
 Remember that we use NULL (set to address 0x0) to represent the end of a linked list in this implementation. Also, a head pointer equal to NULL simply means that the linked list is empty.
 
