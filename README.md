@@ -1,13 +1,10 @@
 # Linked_List
  A simple linked list implementation
 
-# Programming Assignment VII
-
-*Last modified: 07/18/2021 at 3:30PM*
 
 ## Goals
 
-The goals of this assignments are:
+The goals  are:
 
 * To implement a linked list library style,
 
